@@ -4,7 +4,6 @@ import styled from 'styled-components'
 
 export const Overlay = styled(Dialog.Overlay)`
   position: fixed;
-  width: 100vh;
   height: 100vh;
   inset: 0;
   background: rgba(0, 0, 0, 0.75);
@@ -23,7 +22,6 @@ export const Content = styled(Dialog.Content)`
 
   form {
     margin-top: 2rem;
-
     display: flex;
     flex-direction: column;
     gap: 1rem;
