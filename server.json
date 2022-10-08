@@ -23,6 +23,14 @@
       "type": "outcome",
       "createdAt": "2022-10-07T11:22:36.938Z",
       "id": 3
+    },
+    {
+      "description": "teste",
+      "category": "dsf",
+      "price": 234,
+      "type": "income",
+      "createdAt": "2022-10-08T14:18:49.212Z",
+      "id": 4
     }
   ]
 }
