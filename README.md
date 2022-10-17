@@ -1,6 +1,6 @@
 # DT Money
 
-## Simple income/outcome app control.  
+## Simple income/outcome app  
 Project 03 - Rocketseat Ignite ReactJS Path
 
 ```
