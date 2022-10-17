@@ -1,7 +1,6 @@
 # dt-money-react-ts
 
 ## Simple income/outcome app control.  
-
 Project 03 - Rocketseat Ignite ReactJS Path
 
 ```
